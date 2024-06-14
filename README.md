@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/139930811?v=4"  />
+  <img height="150" style="border-radius: 50%;max-width: 100%;" src="https://avatars.githubusercontent.com/u/139930811?v=4"  />
 </div>
 
 <h2 align="left">Hi 👋! My name is Md. Ashraful Haque and I'm a Front End Developer, from Bangladesh.</h2>
