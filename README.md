@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" style="border-radius: 50%;max-width: 100%;" src="https://avatars.githubusercontent.com/u/139930811?v=4"  />
+<img align="right" width="450" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJjdGw1ODB3dDNmdzdpMmNtNmtzMmE3dzQyc2U3ZHZtMW4ydTdzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif"  />
 </div>
 
 <h2 align="left">Hi 👋! My name is Md. Ashraful Haque and I'm a Front End Developer, from Bangladesh.</h2>
@@ -13,9 +13,6 @@
 
 ###
 
-<img align="right" width="450" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJjdGw1ODB3dDNmdzdpMmNtNmtzMmE3dzQyc2U3ZHZtMW4ydTdzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
