@@ -1,5 +1,5 @@
 <div align="center">
-<img align="right" width="450" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJjdGw1ODB3dDNmdzdpMmNtNmtzMmE3dzQyc2U3ZHZtMW4ydTdzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif"  />
+<img align="center" width="450" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJjdGw1ODB3dDNmdzdpMmNtNmtzMmE3dzQyc2U3ZHZtMW4ydTdzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif"  />
 </div>
 
 <h2 align="left">Hi 👋! My name is Md. Ashraful Haque and I'm a Front End Developer, from Bangladesh.</h2>
