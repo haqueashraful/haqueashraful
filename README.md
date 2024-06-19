@@ -13,6 +13,9 @@
 
 ###
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/3898109/file/original-1e15ac48305378a87fc4997b2ad4c0ee.gif">
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
@@ -45,11 +48,7 @@
 </div>
 
 ###
-<br clear="both" >
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/3898109/file/original-1e15ac48305378a87fc4997b2ad4c0ee.gif">
-
-###
 
 <img src="https://raw.githubusercontent.com/haqueashraful/haqueashraful/output/snake.svg" alt="Snake animation" />
 
