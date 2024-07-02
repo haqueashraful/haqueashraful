@@ -6,8 +6,7 @@
 
 <h2 align="left">Hi!👋 My name is Md. Ashraful Haque and I'm a Front End Developer, from Bangladesh.</h2>
 
-##
-##
+
 ## 🔗 &nbsp; About Me
 
 I'm a Front End Web Developer. I'm a skilled React developer with expertise in building modern web applications using React.js, JavaScript, and related technologies. With one years of experience in front-end development, I specialize in creating interactive user interfaces that enhance user experiences and drive engagement.
