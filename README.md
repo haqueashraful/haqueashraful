@@ -49,7 +49,7 @@ I'm a Front End Web Developer. I'm a skilled React developer with expertise in b
  <img src="./icons/NodeJS-Dark.svg" width="48">
 <img src="./icons/ExpressJS-Dark.svg" width="48">
  <img src="./icons/MongoDB.svg" width="48">   
-</p><br/>
+</p>
 
 ##
 
