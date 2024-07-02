@@ -20,11 +20,11 @@
 
 ###
 
-<img align="right" alt="Coding" width="400" margin-top="50" src="https://cdn.dribbble.com/userupload/3898109/file/original-1e15ac48305378a87fc4997b2ad4c0ee.gif">
+<img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/userupload/3898109/file/original-1e15ac48305378a87fc4997b2ad4c0ee.gif">
 
 ###
 
-## :computer: Technologies that I know
+### :computer: Technologies that I know
 
 <br>
 <p align="center">
