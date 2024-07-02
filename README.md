@@ -26,8 +26,8 @@ I'm a Front End Web Developer. I'm a skilled React developer with expertise in b
 
 ###
 ###
-<br>
-<img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/userupload/3898109/file/original-1e15ac48305378a87fc4997b2ad4c0ee.gif">
+
+<br><img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/userupload/3898109/file/original-1e15ac48305378a87fc4997b2ad4c0ee.gif">
 
 ##
 
