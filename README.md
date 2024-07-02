@@ -29,7 +29,7 @@ I'm a Front End Web Developer. I'm a skilled React developer with expertise in b
 
 <img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/userupload/3898109/file/original-1e15ac48305378a87fc4997b2ad4c0ee.gif">
 
-###
+##
 
 ### :computer: Technologies that I know
 
@@ -51,7 +51,7 @@ I'm a Front End Web Developer. I'm a skilled React developer with expertise in b
  <img src="./icons/MongoDB.svg" width="48">   
 </p><br/>
 
-###
+##
 
 
 🔗 &nbsp;**Connect with me**
