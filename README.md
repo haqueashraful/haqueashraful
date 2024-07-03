@@ -19,9 +19,11 @@ I'm a Front End Web Developer. I'm a skilled React developer with expertise in b
 
 ###
 
+<div align="center"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haqueashraful&show_icons=true&locale=en&layout=compact" alt="asif12018" /></p></div>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haqueashraful&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haqueashraful&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haqueashraful&show_icons=true&locale=en" alt="asif12018" /></p>
 </div>
 
 ###
