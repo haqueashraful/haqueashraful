@@ -1,3 +1,8 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Wellcome+to+my+github;" />
+</h1>
+
+
 <div align="center">
 <img align="center" width="450" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJjdGw1ODB3dDNmdzdpMmNtNmtzMmE3dzQyc2U3ZHZtMW4ydTdzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif"  />
 </div>
@@ -19,9 +24,9 @@ I'm a Front End Web Developer. I'm a skilled React developer with expertise in b
 
 
 ##
-
+<div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haqueashraful&theme=radical" alt="Profile Summary" />
-
+</div>
 ##
 
 ###
